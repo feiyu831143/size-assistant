@@ -1,0 +1,2 @@
+# 统一以 LF 入库与检出，避免 Windows 下 autocrlf 造成全文件行尾改写
+* text=auto eol=lf
